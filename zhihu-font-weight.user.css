@@ -4,6 +4,7 @@
 @version        1.0.1
 @description    知乎字重修改
 @author         wangkezun(wangkezun@gmail.com)
+@updateUrl      https://raw.githubusercontent.com/wangkezun/my-usercss/master/zhihu-font-weight.user.css
 ==/UserStyle== */
 @-moz-document domain("www.zhihu.com") {
     .RichContent {
