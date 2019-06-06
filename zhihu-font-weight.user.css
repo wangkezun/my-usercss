@@ -1,0 +1,16 @@
+/* ==UserStyle==
+@name           知乎字重与字号修改
+@namespace      github.com/openstyles/stylus
+@version        1.0.0
+@description    知乎字重修改
+@author         wangkezun(wangkezun@gmail.com)
+==/UserStyle== */
+@-moz-document domain("www.zhihu.com") {
+    .RichContent {
+        font-weight: 500!important;
+        font-size: large;
+    }
+    .ContentItem-title {
+        font-size: x-large;
+    }
+}
