@@ -8,10 +8,11 @@
 ==/UserStyle== */
 @-moz-document domain("www.zhihu.com") {
     .RichContent {
-        font-weight: 500!important;
+        font-weight: 400!important;
         font-size: large;
     }
     .ContentItem-title {
         font-size: x-large;
+        font-weight: 600!important;
     }
 }
