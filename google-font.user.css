@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           google字体
 @namespace      github.com/wangkezun/my-usercss/edit/master/google-font.user.css
-@version        1.0.0
+@version        1.0.1
 @description    google 字体修改
 @author         wangkezun(wangkezun@gmail.com)
 @updateURL      https://raw.githubusercontent.com/wangkezun/my-usercss/master/google-font.user.css
@@ -9,9 +9,11 @@
 @-moz-document domain("google.com") {
     .std,
     .g {
-        font-family: "Source Sans 3", "Source Sans Pro", "Source Han Sans SC", "Noto Sans CJK SC", "HanHei SC", "方正兰亭黑_GB18030", "方正兰亭黑_GBK", -apple-system, BlinkMacSystemFont, system-ui, "Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji", sans-serif;
+        font-family: "Source Han Sans SC", "Noto Sans CJK SC", "HanHei SC", "方正兰亭黑_GB18030", "方正兰亭黑_GBK", -apple-system, BlinkMacSystemFont, system-ui, "Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji", sans-serif;
+        font-weight: 400!important;
     }
     .LC20lb {
-        font-family: "Source Sans 3", "Source Sans Pro", "Source Han Sans SC", "Noto Sans CJK SC", "HanHei SC", "方正兰亭黑_GB18030", "方正兰亭黑_GBK", -apple-system, BlinkMacSystemFont, system-ui, "Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji", sans-serif;
+        font-family: "Source Han Sans SC", "Noto Sans CJK SC", "HanHei SC", "方正兰亭黑_GB18030", "方正兰亭黑_GBK", -apple-system, BlinkMacSystemFont, system-ui, "Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji", sans-serif;
+        font-weight: 600!important;
     }
 }
