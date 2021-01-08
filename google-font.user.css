@@ -27,4 +27,11 @@
         font-size: 14px;
         font-family: "Source Han Sans SC", -apple-system, BlinkMacSystemFont, system-ui, "Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji", sans-serif;
     }
+    .gsfi,.lst {
+        font-size: 16px;
+        font-family: "Source Han Sans SC", -apple-system, BlinkMacSystemFont, system-ui, "Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji", sans-serif;
+        color: rgba(0,0,0,.87);
+        line-height: 34px;
+        height: 34px !important
+    }
 }
