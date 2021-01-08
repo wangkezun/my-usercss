@@ -16,4 +16,8 @@
         font-family: "Source Han Sans SC", -apple-system, BlinkMacSystemFont, system-ui, "Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji", sans-serif;
         font-weight: 500!important;
     }
+    #res h3, #botstuff h3 {
+        font-size: 22px;
+        line-height: 1.5;
+    }
 }
