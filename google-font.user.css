@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           google字体
 @namespace      github.com/wangkezun/my-usercss/edit/master/google-font.user.css
-@version        1.0.1
+@version        1.0.2
 @description    google 字体修改
 @author         wangkezun(wangkezun@gmail.com)
 @updateURL      https://raw.githubusercontent.com/wangkezun/my-usercss/master/google-font.user.css
@@ -10,11 +10,11 @@
     .std,
     .g {
         font-family: "Source Han Sans SC", -apple-system, BlinkMacSystemFont, system-ui, "Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji", sans-serif;
-        font-weight: 400!important;
+        font-weight: 400 !important;
     }
     .LC20lb {
         font-family: "Source Han Sans SC", -apple-system, BlinkMacSystemFont, system-ui, "Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji", sans-serif;
-        font-weight: 500!important;
+        font-weight: 500 !important;
     }
     #res h3, #botstuff h3 {
         font-size: 22px;
@@ -27,10 +27,10 @@
         font-size: 14px;
         font-family: "Source Han Sans SC", -apple-system, BlinkMacSystemFont, system-ui, "Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji", sans-serif;
     }
-    .gsfi,.lst {
+    .gsfi, .lst {
         font-size: 16px;
         font-family: "Source Han Sans SC", -apple-system, BlinkMacSystemFont, system-ui, "Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji", sans-serif;
-        color: rgba(0,0,0,.87);
+        color: rgba(0, 0, 0, .87);
         line-height: 34px;
         height: 34px !important
     }
