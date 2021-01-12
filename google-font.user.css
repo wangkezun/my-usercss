@@ -7,8 +7,7 @@
 @updateURL      https://raw.githubusercontent.com/wangkezun/my-usercss/master/google-font.user.css
 ==/UserStyle== */
 @-moz-document domain("google.com") {
-    .std,
-    .g {
+    .std, .g {
         font-family: "Source Han Sans SC", -apple-system, BlinkMacSystemFont, system-ui, "Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji", sans-serif;
         font-weight: 400 !important;
     }
